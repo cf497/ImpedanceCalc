@@ -2,8 +2,9 @@
 # Created by Giovanni Pireddu and Connie Fairchild
 #
 # Script to compute admittance / impedance from the time series of the charge as in
-# Pireddu G, Fairchild C, Niblett S, Cox SJ, Rotenberg B. Impedance of nanocapacitors
-# from molecular simulations to understand the dynamics of confined electrolytes. ChemRxiv.
+# Pireddu, G., Fairchild, C.J., Niblett, S.P., Cox, S.J. and Rotenberg, B., 2024.
+# Impedance of nanocapacitors from molecular simulations to understand the dynamics
+# of confined electrolytes. Proceedings of the National Academy of Sciences, 121(18), p.e2318157121.
 #
 # Assuming a MetalWalls total_charge.out output file format as described in:
 # https://gitlab.com/ampere2/metalwalls/-/wikis/output-files#total_charges.out
